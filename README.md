@@ -46,7 +46,3 @@ This is a basic "To Do" app I made while learning Flask.
 ## Screenshot
 ![Tooo Dooou Screenshot](./img/ToouDoouApp.png)
 ![Tooo Dooou Screenshot](./img/ToDoEditToDo.png)
-
----
-
-You can replace `path/to/your/screenshot.png` with the actual path to your image file.
