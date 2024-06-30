@@ -44,7 +44,8 @@ A simple to-do app to create, update, and delete to-dos.
 This is a basic "To Do" app I made while learning Flask.
 
 ## Screenshot
-![Tooo Dooou Screenshot](path/to/your/screenshot.png)
+![Tooo Dooou Screenshot](./img/ToouDoouApp.png)
+![Tooo Dooou Screenshot](./img/ToDoEditToDo.png)
 
 ---
 
